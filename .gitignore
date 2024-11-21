@@ -1,0 +1,6 @@
+# Игнорировать все файлы в каталоге tmp/
+tmp/
+*.*_old
+*.*_backup
+Thumbs.db
+.DS_Store
